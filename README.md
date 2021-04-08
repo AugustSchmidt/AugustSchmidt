@@ -1,0 +1,6 @@
+- Hi, I’m @AugustSchmidt, and I'm a graduate student of mathematics interested in algebraic number theory. 
+- I’m currently reading
+  - Number Fields by Marcus
+  - A Classical Introduction to Modern Number Theory by Ireland-Rosen
+  - The Stucture of Fields by Winter
+- You to reach me via email at 'gusschmidt313 @ gmail.com' (remove spaces)

@@ -1,6 +1,2 @@
-- Hi, I’m August Schmidt, and I'm a graduate student of mathematics interested in algebraic number theory. 
-- I’m currently reading
-  - Number Fields by Marcus
-  - A Classical Introduction to Modern Number Theory by Ireland-Rosen
-  - The Stucture of Fields by Winter
+- Hi, I’m Gus Schmidt, and I'm a graduate student of mathematics interested in number theory, arithmetic geometry, algebraic topology, and where they all intersect. 
 - You to reach me via email at 'gusschmidt313 @ gmail.com' (remove spaces)
